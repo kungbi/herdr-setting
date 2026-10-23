@@ -1,0 +1,7 @@
+# GitHub repository and installed ref. Local Agent Picker is in plugins/agent-picker.
+# Ovis is optional and is skipped by the default install loop in README.md.
+plannotator/herdr-annotate c5e565e9bdbb52d152ad15169f38ed8bae31b610
+ChmaraX/herdr-nvim 3ca867153baad10d658f731ad8dcdd1d4a1fc1c2
+devswha/herdr-web-ui 818c461710e3765f5ef2c4dd4dbc119deab0b015
+persiyanov/herdr-reviewr v0.45.0
+speardragon/herdr-plugin-manager 8ed222ab7efe735b3ef5e037e7ee81d6d7650e4e
